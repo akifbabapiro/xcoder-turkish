@@ -5,7 +5,7 @@ Bu Proje Supercell oyunlarını modlamak için kullanılan XCoder'ın türkçe y
 
 ### Gereksinimler
 
-- [Python 3](python.org)
+- [Python 3]
 ## İndirme Linki
 - [Buradan indirebilirsiniz](https://github.com/akifbabapiro/xcoder-turkish/releases/tag/App)
 
