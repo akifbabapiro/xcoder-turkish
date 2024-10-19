@@ -17,7 +17,7 @@ Linux:
 - Terminali açın ve şu komudu çalıştırın:</br>
 ```sudo apt-get update && sudo apt-get install python3 python3-pip```
 - XCoder'ı indirme linki bölümünden indirin ve  zipten çıkarın.
-  - "Main.py" i ```python3 Main.py``` komutunu çalıştırın
+  - "Main.py" i çaloştırmak için ```python3 Main.py``` komutunu çalıştırın
 
 Android:
 - Buradan Pydroid i indirin<a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">Google Play</a>.
