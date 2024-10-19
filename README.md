@@ -6,7 +6,7 @@ Bu Proje Supercell oyunlarını modlamak için kullanılan XCoder'ın türkçe y
 ## İndirme Linki
 - [Buradan indirebilirsiniz](https://github.com/akifbabapiro/xcoder-turkish/releases/tag/App)
 
-### How to install and use
+### Nasıl indirilir
 Windows:
 - Python 3 veya başka bir sürümünü indirin <a href="https://www.python.org/downloads/">Resmi sayfası</a>.
 - Pythonu indirirken şunlarıda etkinleşitirin.  "Add Python to PATH", "Install pip", "Install py launcher", "Associate files with Python" and "Add Python to environment variables". bunları etkinleştirin işte
