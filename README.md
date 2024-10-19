@@ -1,11 +1,13 @@
-# XCoder Türkçe Yama
+## XCoder Türkçe Yama
 
 Bu Proje Supercell oyunlarını modlamak için kullanılan XCoder'ın türkçe yamasıdır
 
 
 ### Gereksinimler
 
-- [Python 3](link)
+- [Python 3](python.org)
+## İndirme Linki
+- [Buradan indirebilirsiniz](https://github.com/akifbabapiro/xcoder-turkish/releases/tag/App)
 
 ### Kurulum
 Orjinal repoda bulabilirsiniz
@@ -15,10 +17,9 @@ Orjinal repoda bulabilirsiniz
 Orjinal repoda bulabilirsiniz
 
 ## Katkıda Bulunanlar
-👤Çevirmen
-@akifbabapiro
+👤Çevirmen | @akifbabapiro
 
 
 ## Lisans
 
-Bu proje MasterDevX'in geliştirdiği XCoder'ın türkçe versiyonudut dilediğinizi yapabilirsiniz
+Bu proje MasterDevX'in geliştirdiği XCoder'ın türkçe versiyonudur dilediğinizi yapabilirsiniz
