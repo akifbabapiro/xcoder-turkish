@@ -1,6 +1,8 @@
 ## XCoder Türkçe Yama
 
 Bu Proje Supercell oyunlarını modlamak için kullanılan XCoder'ın türkçe yamasıdır
+<img src="https://raw.githubusercontent.com/akifbabapiro/xcoder-turkish/refs/heads/main/IMG_20241019_195112.png" alt="alt text" width="320" height="180">
+
 
 
 ## İndirme Linki
