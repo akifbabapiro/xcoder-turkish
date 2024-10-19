@@ -20,10 +20,10 @@ Linux:
   - "Main.py" i çalıştırmak için ```python3 Main.py``` komutunu çalıştırın
 
 Android:
-- Buradan Pydroid'i indirin<a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">Google Play</a>.
+- Buradan Pydroid'i indirin <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">Google Play</a>.
 - Pydroid i açın ve pythonın yüklenmesini bekleyin.
 - İndirme linki bölümünden XCoder'ı indirin ve zipten çıkarın.
-- pytroiddrn dosyayı açın ve çalıştırın.</br>
+- pytroidden dosyayı açın ve çalıştırın.</br>
 
 ## Katkıda Bulunanlar
 👤 **Akif**
